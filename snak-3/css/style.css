@@ -1,7 +1,7 @@
-div.red{
+div#red{
     color: red;
 }
 
-div.green{
+div#green{
     color: green;
 }
